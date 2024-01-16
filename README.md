@@ -16,3 +16,6 @@ This is an application for managing user profiles learned in an IT begginners co
 ### To start the application, execute
 
     npm run start
+
+
+Application runs on port 3000
