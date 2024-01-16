@@ -1,5 +1,5 @@
 # teamable
-This is an application for managing user profiles learned in an IT begginners course taught by "Techwold With Nana".
+This is an application for managing employee user profiles learned in an IT begginners course taught by "Techwold With Nana".
 
 ### To run the tests, execute
 
